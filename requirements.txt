@@ -1,7 +1,0 @@
-emojis
-folium
-matplotlib
-numpy
-pandas
-streamlit
-folium_static
