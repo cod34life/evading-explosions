@@ -1,0 +1,6 @@
+emojis
+folium
+matplotlib
+numpy
+pandas
+streamlit
